@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou Diego Isaurralde 👋
 
-<!--
-**Diego-Isaurralde/Diego-Isaurralde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor em formação  
+🚀 Interessado em desenvolvimento de software e tecnologia
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Projetos
+
+🏦 **Unipar Bank**  
+Sistema bancário desenvolvido em Java, aplicando conceitos de Programação Orientada a Objetos.
+
+🌐 **Projetos Web**
+
+- Agência dos Correios
+- Copa do Mundo 2026
+- O Senhor dos Anéis
+
+Projetos desenvolvidos utilizando HTML, CSS, JavaScript e práticas de desenvolvimento web.
+
+## Formação
+
+🎓 Engenharia de Software
+
+## Contato
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/diegoisaurralde/
